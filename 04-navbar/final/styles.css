@@ -245,3 +245,7 @@ nav {
     color: var(--clr-primary-7);
   }
 }
+/* Modified by Shiwam Rai */
+body {
+  background-color: #f4f4f4;
+}
